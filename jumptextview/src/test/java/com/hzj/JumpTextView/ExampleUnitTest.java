@@ -1,4 +1,4 @@
-package com.hzj.jumptextview;
+package com.hzj.JumpTextView;
 
 import org.junit.Test;
 

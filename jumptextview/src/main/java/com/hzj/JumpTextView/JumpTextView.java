@@ -1,8 +1,9 @@
-package com.hzj.jumptextview;
+package com.hzj.JumpTextView;
 
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.graphics.Color;
+
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.util.AttributeSet;
@@ -19,7 +20,7 @@ import io.reactivex.functions.Consumer;
 import io.reactivex.schedulers.Schedulers;
 
 /**
- * Created by rj on 2018/2/8.
+ * Created by hzj on 2018/2/8.
  */
 
 public class JumpTextView extends FrameLayout{
