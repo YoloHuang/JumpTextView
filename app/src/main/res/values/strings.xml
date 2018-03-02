@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">JumpTextView</string>
     <string name="text_first">锄禾日当午，汗滴禾下土。谁知盘中餐，粒粒皆辛苦</string>
+    <string name="text_second">富强，民主，文明，和谐，公正，法治，爱国，敬业</string>
+    <string name="text_third">The heart has a tiger to sniff the rose</string>
+    <string name="text_fours">数字跟英文一起时，会同时显示：234gfd432,3fsd,dasda4345</string>
 </resources>
